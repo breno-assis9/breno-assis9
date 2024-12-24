@@ -1,6 +1,6 @@
 # Breno Assis
 
-**Programador .NET** | **Desenvolvedor de Software** | **Engenheiro de Software** | **Especialista em Arquiteturas**
+Tenho experiências como: **Programador .NET** | **Desenvolvedor de Software** | **Engenheiro de Software** | **Acessor Especialista em TI**
 
 ---
 
@@ -66,6 +66,3 @@ Adoto arquiteturas de microsserviços para criar sistemas escaláveis e de fáci
 
 Utilizo as metodologias ágeis Scrum e Kanban para otimizar o desenvolvimento, garantir entregas contínuas e aumentar a colaboração entre equipes.
 
----
-
-## Desenvolvido com ❤️ por Breno Assis
